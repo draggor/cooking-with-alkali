@@ -1,0 +1,16 @@
+---
+layout: recipe
+title:  "Eggnog"
+image: eggnog.jpg
+imagecredit: https://openverse.org/image/ab954fe1-c207-4af5-bac1-5d6471ad3782
+tags: drinks, alcohol
+
+ingredients:
+- The Nog
+
+directions:
+- Watch the video
+
+---
+
+From [Cooking With Alkali: How To Make Eggnog!](https://www.youtube.com/watch?v=zpMnu9_m9F4&list=PLQYPT6tB8lNZiHXGgc2kKrcj1FABFiiek&index=21)

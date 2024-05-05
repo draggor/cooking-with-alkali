@@ -1,0 +1,35 @@
+# Site settings
+title: Cooking With Alkali
+email: alkalibismuth@gmail.com
+description: The recipe collection from the Cooking With Alkali YouTube series
+#baseurl: "https://chowdown.io"
+language: "en"
+lang_direction: "ltr"
+color: "#007FFF"
+#twitter_username: clarklab
+#github_username:  clarklab
+
+# Build settings
+markdown: kramdown
+
+permalink: /:title:output_ext
+
+collections:
+  components:
+    output: true
+  recipes:
+    output: true
+
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+
+translation:
+  en:
+    components: "Components"
+    ingredients: "Ingredients"
+    directions: "Directions"
+    category: "Category"
+    nutritional_information: "Nutritional Information"
+    component_based: 'This is a <strong class="blue">component-based recipe</strong>.'
+    search: "Search"
+    blog: "Blog"
+    subscribe: "Subscribe"
