@@ -1,0 +1,40 @@
+---
+
+layout: recipe
+title:  "Brownies: Cakey and Fudgy"
+image: brownies.jpg
+imagecredit: https://openverse.org/image/496806df-85b8-49b8-b674-6a3eaa7fd490
+tags: brownies, fudge
+
+ingredients:
+- Fudgy:
+- 6 ounces bittersweet chocolate morsels
+- 4 oz unsalted butter, (1 stick)
+- 1 1/2 cups sugar
+- 3 eggs
+- 1/4 cup Dutch process cocoa powder
+- Pinch of salt
+- 1/2 cup plus 2 tablespoons all-purpose flour
+- 8x8 pan
+- 350° oven
+- 35 - 40 min
+- Cakey:
+- 4 ounces bittersweet chocolate morsels
+- 2 oz unsalted butter, (1/2 stick)
+- 1 1/2 cups sugar
+- 3 eggs
+- 1/4 cup Dutch process cocoa powder
+- Pinch of salt
+- 1 1/2 cups all-purpose flour
+- 1/2 teaspoon of baking powder
+- 8x8 pan
+- 350° oven
+- 25 - 30 min
+
+directions:
+- Watch the video
+
+---
+
+
+From [Cooking With Alkali: How To Make Brownies on October 21, 2018](https://www.youtube.com/watch?v=cd1oI4MSm9Q&list=PLQYPT6tB8lNZiHXGgc2kKrcj1FABFiiek&index=14)
