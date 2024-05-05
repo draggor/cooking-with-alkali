@@ -1,0 +1,33 @@
+---
+
+layout: recipe
+title:  "Cakies: Three different cookie recipes!"
+image: cakies.jpg
+imagecredit: https://openverse.org/image/f7a8d6c0-87a0-4aba-882f-9dc4911f4a99
+tags: cookies, red velvet, birthday, cake, cream
+
+ingredients:
+- RED VELVET WHITE CHOCOLATE COOKIES
+- 1 package red velvet cake mix
+- 1 cup white chocolate chips
+- ½ cup oil
+- 2 eggs
+- BIRTHDAY CAKE COOKIES
+- 1 package funfetti cake mix
+- ¾ cup white chocolate chunks
+- ⅓ cup oil
+- 2 eggs
+- Rainbow sprinkles
+- COOKIES 'N' CREAM COOKIES
+- 1 package white cake mix
+- 12 sandwich cookies, crushed
+- ⅓ cup oil
+- 2 eggs
+
+directions:
+- Watch the video
+
+---
+
+
+From [Cooking With Alkali: Cakies on June 25, 2017](https://www.youtube.com/watch?v=-tG1p9NTrUk&list=PLQYPT6tB8lNZiHXGgc2kKrcj1FABFiiek&index=17)
