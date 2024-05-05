@@ -1,5 +1,5 @@
 ---
-
+date: 2020-03-29
 layout: recipe
 title:  "Banana Bread"
 image: banana-bread.jpg

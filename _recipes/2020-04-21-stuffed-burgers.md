@@ -1,4 +1,5 @@
 ---
+date: 2020-04-21
 layout: recipe
 title:  "Stuffed Burgers"
 image: stuffed-burgers.jpg

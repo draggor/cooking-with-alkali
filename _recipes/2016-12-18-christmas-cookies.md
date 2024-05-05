@@ -1,5 +1,5 @@
 ---
-
+date: 2016-12-18
 layout: recipe
 title:  "Christmas Cookies"
 image: christmas-cookies.jpg

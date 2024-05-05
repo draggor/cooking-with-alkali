@@ -1,4 +1,5 @@
 ---
+date: 2018-02-05
 layout: recipe
 title:  "Pizza Bread from Scratch"
 image: pizzabread.jpg

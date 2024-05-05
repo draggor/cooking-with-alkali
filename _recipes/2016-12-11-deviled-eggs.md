@@ -1,4 +1,5 @@
 ---
+date: 2016-12-11
 layout: recipe
 title:  "Deviled Eggs"
 image: deviled-eggs.jpg

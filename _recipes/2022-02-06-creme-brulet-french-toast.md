@@ -1,4 +1,5 @@
 ---
+date: 2022-02-06
 layout: recipe
 title:  "Creme Brulet French Toast"
 image: creme-brulet-french-toast.jpg

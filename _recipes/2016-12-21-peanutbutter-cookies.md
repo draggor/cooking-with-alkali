@@ -1,5 +1,5 @@
 ---
-
+date: 2016-12-21
 layout: recipe
 title:  "Peanut Butter Cookies"
 image: peanutbutter-cookies.jpg

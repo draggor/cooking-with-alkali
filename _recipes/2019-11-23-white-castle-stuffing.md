@@ -1,5 +1,5 @@
 ---
-
+date: 2019-11-23
 layout: recipe
 title:  "White Castle Stuffing"
 image: whitecastle-stuffing.jpg

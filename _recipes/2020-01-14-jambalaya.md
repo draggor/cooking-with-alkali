@@ -1,5 +1,5 @@
 ---
-
+date: 2020-01-14
 layout: recipe
 title:  "Jambalaya"
 image: jambalaya.jpg

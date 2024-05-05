@@ -1,4 +1,5 @@
 ---
+date: 2020-05-21
 layout: recipe
 title:  "Chicken Riggies"
 image: chicken-riggies.jpg

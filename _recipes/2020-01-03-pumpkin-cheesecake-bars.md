@@ -1,5 +1,5 @@
 ---
-
+date: 2020-01-03
 layout: recipe
 title:  "Pumpkin Cheesecake Bars"
 image: pumpkin-cheesecake-bars.jpg

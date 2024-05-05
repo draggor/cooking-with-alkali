@@ -1,5 +1,5 @@
 ---
-
+date: 2019-11-14
 layout: recipe
 title:  "Ricotta & Lemon Curd Crumpets"
 image: crumpets.jpg
